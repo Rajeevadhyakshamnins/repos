@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #hello
 hello
 hell
@@ -32,3 +33,6 @@ never give up
 >>>>>>> parent of 59af1e8... kj'
 =======
 >>>>>>> parent of d7e7942... commited
+=======
+#Practise Time...!
+>>>>>>> rajeev

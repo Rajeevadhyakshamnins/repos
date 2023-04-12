@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #hello
 hello
 hell
@@ -35,4 +36,8 @@ never give up
 >>>>>>> parent of d7e7942... commited
 =======
 #Practise Time...!
+>>>>>>> rajeev
+=======
+#hello
+This nice day
 >>>>>>> rajeev
